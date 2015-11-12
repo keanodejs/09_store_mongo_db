@@ -1,0 +1,10 @@
+{"_id":{"$oid":"56162c7072663e5e731dcf8d"},"address":"Bla 56","email":"clbo@kea.dk","lastName":"Bové","links":[{"href":"http://localhost:3000/users/56162c7072663e5e731dcf8d","rel":"self"}],"name":"Torben","phone":4.512345678e+09}
+{"_id":{"$oid":"56163458a471dd707380fd8e"},"address":"Bla 56","email":"anna@kea.dk","lastName":"Bové","make":"xxcccc","name":"Find","phone":4.512345678e+09}
+{"_id":{"$oid":"5616362c37129a7e739e1867"},"address":"Bla 56","email":"time@kea.dk","lastName":"xxxx","name":"Oluf","phone":4.512345678e+09}
+{"_id":{"$oid":"5624e51f87dd9f6132e415f9"},"address":"Lygten 16","email":"tove@kea.dk","lastName":"Hansen","name":"Tove","phone":4.512345678e+09}
+{"_id":{"$oid":"5624e57e52576f63328d94c6"},"address":"Lygten 16","email":"henning@kea.dk","lastName":"Hansen","name":"Henning","phone":4.512345678e+09}
+{"_id":{"$oid":"56255188bb708f05348620fa"},"address":"Lygten 16","email":"jesn@kea.dk","lastName":"Hansen","name":"Jesper","phone":4.512345678e+09}
+{"_id":{"$oid":"562584cb2e7c539538313261"},"address":"Lygten 16","email":"jesn@kea.dk","lastName":"Hansen","name":"Jesper xxx","phone":4.512345678e+09}
+{"_id":{"$oid":"562584dc86f4809f388f9904"},"address":"Lygten 16","email":"jesn@kea.dk","lastName":"Hansen","name":"Jesper xxx","phone":4.512345678e+09}
+{"_id":{"$oid":"562585423d40e8a238dd78d1"},"address":"Lygten 16","email":"jesn@kea.dk","lastName":"Hansen","name":"Jesper xxx","phone":4.512345678e+09}
+{"_id":{"$oid":"56277d7983ec53db43783088"},"user":"56162c7072663e5e731dcf8d"}
