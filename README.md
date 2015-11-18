@@ -12,7 +12,7 @@ You can do the same, or you can use these files with my data.
 ## Import
 The you can *import* these to mongolab
 
-<pre>mongoimport -h ds053964.mongolab.com:53964 -d store_2 -c <collection> -u <user> -p <password> --file <input file></pre>
+<pre>mongoimport -h ds053964.mongolab.com:53964 -d store_2 -c \<collection> -u \<user> -p \<password> --file \<input file></pre>
 
 This command you can find under the tools tab under your database.
 
